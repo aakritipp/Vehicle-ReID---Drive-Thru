@@ -1,4 +1,4 @@
-# Trace Candidate Project Vehicle Re-ID
+# Project Vehicle Re-ID
 
 System for tracking vehicles across multiple camera views using DINOv2 feature extraction and direction-aware feature aggregation, Kalman filtering.
 
